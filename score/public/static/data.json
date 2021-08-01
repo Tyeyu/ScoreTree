@@ -1,0 +1,1785 @@
+{
+  "name": "农作物",
+  "children": [
+    {
+      "name": "坚果",
+      "children": [
+        {
+          "name": "大粒坚果",
+          "children": [
+            {
+              "name": "其他大粒坚果",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "山核桃",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "板栗",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "核桃",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "澳洲坚果",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "小粒坚果",
+          "children": [
+            {
+              "name": "其他小粒坚果",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "开心果",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "杏仁",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "松仁",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "榛子",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "腰果",
+              "children": [],
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "水果",
+      "children": [
+        {
+          "name": "仁果类水果",
+          "children": [
+            {
+              "name": "其他仁果类水果",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "山楂",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "枇杷",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "梨",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "榅桲",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "苹果",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "干制水果",
+          "children": [
+            {
+              "name": "其他干制水果",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "干制无花果",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "无花果蜜饯",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "李子干",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "枣（干）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "柑橘脯（干柑橘脯）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "葡萄干",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "柑橘类水果",
+          "children": [
+            {
+              "name": "佛手柑",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "其他柑橘类水果",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "柑",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "柑橘",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "柚",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "柠檬",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "橘",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "橙",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "金橘",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "核果类水果",
+          "children": [
+            {
+              "name": "其他核果类水果",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "李子",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "杏",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "枣（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "桃",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "樱桃",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "油桃",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "青梅",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "浆果和其他小型水果",
+          "children": [
+            {
+              "name": "小型攀缘类",
+              "children": [
+                {
+                  "name": "五味子",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "其他小型攀缘类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "树番茄",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "猕猴桃",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "葡萄",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "西番莲",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "草莓.csv",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "藤蔓和灌木类",
+              "children": [
+                {
+                  "name": "其他藤蔓和灌木类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "加仑子",
+                  "children": [
+                    {
+                      "name": "加仑子（白）",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "加仑子（红）",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "加仑子（黑）",
+                      "children": [],
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "唐棣",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "悬钩子",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "枸杞",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "桑葚",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "蓝莓",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "覆盆子",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "越橘",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "醋栗",
+                  "children": [
+                    {
+                      "name": "醋栗（其他）",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "醋栗（红）",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "醋栗（黑）",
+                      "children": [],
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "露莓",
+                  "children": [
+                    {
+                      "name": "波森莓",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "罗甘莓",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "露莓（其他）",
+                      "children": [],
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "黑莓",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "热带和亚热带水果",
+          "children": [
+            {
+              "name": "热带和亚热带水果（皮不可食）",
+              "children": [
+                {
+                  "name": "中型果",
+                  "children": [
+                    {
+                      "name": "其他中型果",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "山竹",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "番石榴",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "番荔枝",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "石榴",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "芒果",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "西榴莲",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "鳄梨",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "黄皮",
+                      "children": [],
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "大型果",
+                  "children": [
+                    {
+                      "name": "其他大型果",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "木瓜",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "椰子",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "番木瓜",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "香蕉",
+                      "children": [],
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "小型果",
+                  "children": [
+                    {
+                      "name": "其他小型果",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "红毛丹",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "荔枝",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "龙眼",
+                      "children": [],
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "带刺果",
+                  "children": [
+                    {
+                      "name": "其他带刺果",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "榴莲",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "火龙果",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "菠萝",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "菠萝蜜",
+                      "children": [],
+                      "value": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "热带和亚热带水果（皮可食）",
+              "children": [
+                {
+                  "name": "其他热带和亚热带水果（皮可食）",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "无花果",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "杨桃",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "杨梅",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "柿子（柿）",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "橄榄",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "莲雾",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "瓜果类水果",
+          "children": [
+            {
+              "name": "瓜果类水果（甜瓜类）",
+              "children": [
+                {
+                  "name": "其他瓜果类水果（甜瓜类）.csv",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "哈密瓜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "甜瓜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "白兰瓜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "网纹甜瓜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "薄皮甜瓜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "香瓜",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "西瓜.csv",
+              "children": [],
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "蔬菜",
+      "children": [
+        {
+          "name": "其他类蔬菜",
+          "children": [
+            {
+              "name": "仙人掌",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "其他",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "玉米笋",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "竹笋",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "黄花菜",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "叶菜类蔬菜",
+          "children": [
+            {
+              "name": "叶柄类",
+              "children": [
+                {
+                  "name": "其他叶柄类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "小茴香",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "球茎茴香",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "芹菜",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "大白菜",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "绿叶类",
+              "children": [
+                {
+                  "name": "其他绿叶类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "叶用莴苣",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "叶芥菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "大叶茼蒿",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "普通白菜",
+                  "children": [
+                    {
+                      "name": "小油菜",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "小白菜",
+                      "children": [],
+                      "value": 1
+                    },
+                    {
+                      "name": "青菜",
+                      "children": [],
+                      "value": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "油麦菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "结球莴苣",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "芜菁叶",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "苋菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "苦苣",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "茼蒿",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "莴苣",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "菊苣",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "菠菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "萝卜叶",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "落葵",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "蕹菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "野苣",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "干制蔬菜",
+          "children": [
+            {
+              "name": "其他干制蔬菜",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "干豇豆",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "脱水蔬菜",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "萝卜干",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "根茎类和薯芋类蔬菜",
+          "children": [
+            {
+              "name": "其他薯芋类蔬菜",
+              "children": [
+                {
+                  "name": "其他薯芋类蔬菜_其他",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "山药",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "木薯",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "牛蒡",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "甘薯",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "芋",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "葛",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "魔芋",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "根茎类",
+              "children": [
+                {
+                  "name": "其他根茎类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "姜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "根甜菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "根芥菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "根芹菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "桔梗",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "胡萝卜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "芜菁",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "萝卜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "辣根",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "马铃薯",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "水生类蔬菜",
+          "children": [
+            {
+              "name": "果实类",
+              "children": [
+                {
+                  "name": "其他果实类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "芡实",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "菱角",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "根类",
+              "children": [
+                {
+                  "name": "其他根类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "慈姑",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "荸荠",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "莲藕",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "茎叶类",
+              "children": [
+                {
+                  "name": "其他茎叶类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "水芹",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "茭白",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "蒲菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "豆瓣菜",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "瓜类蔬菜",
+          "children": [
+            {
+              "name": "大型瓜类",
+              "children": [
+                {
+                  "name": "其他大型瓜类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "冬瓜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "南瓜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "笋瓜",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "小型瓜类",
+              "children": [
+                {
+                  "name": "丝瓜.csv",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "其他小型瓜类.csv",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "瓠瓜.csv",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "线瓜.csv",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "节瓜.csv",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "苦瓜.csv",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "西葫芦.csv",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "腌制用小黄瓜.csv",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "黄瓜.csv",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "芸薹属类蔬菜",
+          "children": [
+            {
+              "name": "头状花序芸薹属",
+              "children": [
+                {
+                  "name": "其他头状花序芸薹属",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "花椰菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "青花菜",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "结球芸薹属",
+              "children": [
+                {
+                  "name": "其他结球芸薹属",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "抱子甘蓝",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "球茎甘蓝",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "结球甘蓝",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "羽衣甘蓝",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "赤球甘蓝",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "茎类芸薹属",
+              "children": [
+                {
+                  "name": "其他茎类芸薹属",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "芥蓝",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "茎芥菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "菜薹",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "芽菜类蔬菜",
+          "children": [
+            {
+              "name": "其他芽菜类",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "绿豆芽",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "花椒芽",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "苜蓿芽",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "萝卜芽",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "香椿芽",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "黄豆芽",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "茄果类蔬菜",
+          "children": [
+            {
+              "name": "其他茄果类",
+              "children": [
+                {
+                  "name": "其他",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "甜椒",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "秋葵",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "茄子",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "辣椒",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "酸浆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "黄秋葵",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "番茄类",
+              "children": [
+                {
+                  "name": "其他番茄类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "樱桃番茄",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "番茄",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "茎类蔬菜",
+          "children": [
+            {
+              "name": "其他茎类蔬菜",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "大黄",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "朝鲜蓟",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "芦笋",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "豆类蔬菜",
+          "children": [
+            {
+              "name": "荚不可食类",
+              "children": [
+                {
+                  "name": "其他荚不可食类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "菜用大豆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "菜豆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "蚕豆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "豌豆",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "荚可食类",
+              "children": [
+                {
+                  "name": "其他荚可食类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "刀豆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "利马豆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "四棱豆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "扁豆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "菜豆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "豇豆",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "食荚豌豆",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "鳞茎类蔬菜",
+          "children": [
+            {
+              "name": "百合",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "绿叶葱类",
+              "children": [
+                {
+                  "name": "其他绿叶葱类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "葱",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "蒜薹",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "青蒜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "韭菜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "韭葱",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "name": "鳞茎葱类",
+              "children": [
+                {
+                  "name": "其他鳞茎葱类",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "大蒜",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "洋葱",
+                  "children": [],
+                  "value": 1
+                },
+                {
+                  "name": "薤",
+                  "children": [],
+                  "value": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "谷物",
+      "children": [
+        {
+          "name": "成品粮",
+          "children": [
+            {
+              "name": "全麦粉（小麦全麦粉）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "其他成品粮",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "大米",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "大米粉",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "大麦粉",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "小麦粉",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "玉米粉",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "玉米糁",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "甘薯粉",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "糙米",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "荞麦粉",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "莜麦粉",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "高粱米",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "高粱粉",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "麦胚",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "黑麦全粉",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "黑麦粉",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "旱粮类",
+          "children": [
+            {
+              "name": "其他旱粮类",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "玉米",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "稷",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "粟",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "荞麦",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "薏仁",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "高粱",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "鲜食玉米",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "杂粮类",
+          "children": [
+            {
+              "name": "其他杂粮类.csv",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "小扁豆.csv",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "绿豆.csv",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "豌豆.csv",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "赤豆.csv",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "鹰嘴豆.csv",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "稻类",
+          "children": [
+            {
+              "name": "稻谷",
+              "children": [],
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "麦类",
+          "children": [
+            {
+              "name": "其他麦类",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "大麦",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "小麦",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "小黑麦",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "燕麦",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "黑麦",
+              "children": [],
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "食用菌",
+      "children": [
+        {
+          "name": "蘑菇类（鲜）",
+          "children": [
+            {
+              "name": "其他蘑菇类（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "双孢蘑菇（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "口蘑（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "平菇（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "杏鲍菇（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "松茸（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "牛肝菌（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "猴头菇（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "白灵菇（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "竹荪（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "羊肚菌（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "茶树菇（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "草菇（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "金针菇（鲜）",
+              "children": [],
+              "value": 1
+            },
+            {
+              "name": "香菇（鲜）",
+              "children": [],
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
